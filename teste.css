@@ -1,0 +1,35 @@
+h1{
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    position: absolute;
+    top: 17%;
+    right: 85%;
+    color: #a1c0c9
+}
+/* .paragrafo1{
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    font-family: 'poppins', sans-serif;
+    position: absolute;
+    top: 21%;
+    bottom: 50%;
+    color: rgb(196, 196, 196);
+    padding-left: 8%;
+    padding-right: 8%;
+} */
+h2{
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    position: absolute;
+    top: 45%;
+    right: 88%;
+    color: #a1c0c9
+}
